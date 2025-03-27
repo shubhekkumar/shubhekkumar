@@ -1,7 +1,5 @@
 ## Hi there! 👋 I'm Shubhek Kumar
 
-![Banner](https://source.unsplash.com/1600x400/?technology,coding)
-
 Welcome to my GitHub profile! I'm passionate about coding, open-source contributions, and continuous learning.
 
 ### 🚀 About Me
