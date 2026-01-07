@@ -1,89 +1,96 @@
 # 👋 Hi, I'm Sam
 
-### DevOps Intern | Cloud & Infrastructure Enthusiast | Backend-Oriented
+### DevOps Intern | Cloud & Infrastructure Learner | Backend Mindset
 
-I am a student and DevOps intern who enjoys building, automating, and troubleshooting systems.  
-I learn best by doing — experimenting with tools, breaking things safely, and fixing them.
+I’m a curious DevOps intern who enjoys **understanding how systems really work** — from Linux processes to containers and cloud infrastructure.
 
-I am not focused on frontend development. My interest lies in **backend systems, infrastructure, automation, and reliability**.
-
----
-
-## 🚀 What I Do
-
-- Work with Linux systems and command-line tools daily
-- Use Git for version control and collaboration
-- Build and run containerized applications using Docker
-- Learn and apply DevOps fundamentals through hands-on practice
-- Troubleshoot software issues and resolve system-level problems
-- Comfortable fixing common PC and laptop software/hardware issues
+I learn by building, breaking (safely), fixing, and automating.  
+Frontend visuals don’t excite me — **automation, reliability, and backend logic do**.
 
 ---
 
-## 🛠️ Skills & Tools
+## 🧩 How I Think
 
-### DevOps & Automation
-- Linux (CLI, processes, permissions, networking basics)
-- Git & GitHub (branching, commits, SSH, collaboration)
-- Docker (images, containers, basic Dockerfiles)
-- CI/CD fundamentals (learning & practicing)
+- “If it runs, I want to know *why* it runs.”
+- “If it breaks, I want to fix it — and automate the fix.”
+- “If it’s manual, it can probably be automated.”
 
-### Cloud (Learning & Practicing)
-- AWS (EC2, basics of networking & IAM)
-- GCP & Azure (fundamentals)
+---
 
-### Networking
+## ⚙️ What I Work With
+
+### DevOps & System Skills
+- Linux (CLI, permissions, processes, networking basics)
+- Git & GitHub (branches, commits, SSH, collaboration)
+- Docker (containers, images, Dockerfiles)
+- CI/CD concepts and workflows (learning by practice)
+
+### Cloud (Hands-On Learning)
+- AWS (EC2, basic networking, IAM concepts)
+- GCP & Azure fundamentals
+- Understanding how apps live on cloud servers
+
+### Networking & Troubleshooting
 - IP addressing & subnetting
-- Basic routing and troubleshooting
 - Cisco networking fundamentals
+- Debugging system and connectivity issues
 
-### Programming & Backend
-- Basic backend logic
-- Understanding of how applications run on servers
-- Debugging and problem-solving mindset
+### Backend & Problem Solving
+- Backend logic understanding
+- Comfortable troubleshooting software issues
+- Can fix common PC and laptop software/hardware problems
 
 ---
 
-## 📚 Currently Learning
+## 🔍 What I’m Learning Right Now
 
 - Advanced Linux administration
-- Docker best practices
-- CI/CD pipelines
-- Cloud services (AWS-focused)
-- Networking & security fundamentals
-- DevOps tools and workflows used in real-world teams
+- Docker best practices & container workflows
+- CI/CD pipelines used by real teams
+- Cloud infrastructure (AWS-focused)
+- Security & networking fundamentals
+
+I focus on **hands-on labs and real setups**, not just theory.
 
 ---
 
-## 🔧 Projects (In Progress)
+## 🛠️ Projects (Learning by Building)
 
-> I focus on practical, learning-oriented projects.
+> My projects focus on understanding systems, not just finishing tasks.
 
-- **Containerized Applications** – Running backend apps using Docker  
-- **Linux Automation Scripts** – Automating repetitive system tasks  
-- **Cloud Practice Labs** – Deploying and managing basic cloud resources  
-- **Git & CI Practice** – Improving version control and pipeline workflows  
+- **Containerized Backend Apps**  
+  Running and managing backend applications using Docker
 
-*(More projects coming as I learn and build)*
+- **Linux Automation Scripts**  
+  Scripts to reduce repetitive manual work
 
----
+- **Cloud Practice Labs**  
+  Deploying and managing basic cloud infrastructure
 
-## 🧠 Mindset
+- **Git & CI Experiments**  
+  Practicing clean commits, branching, and automation pipelines
 
-- Curious and quick to adapt to new tools and technologies
-- Believe in learning by building and breaking
-- Prefer clarity, simplicity, and reliability in systems
-- Always improving problem-solving and troubleshooting skills
+*(Projects grow as my skills grow)*
 
 ---
 
-## 📌 Goals
+## 🧠 Mindset & Values
 
-- Grow into a strong **DevOps / Cloud / Platform Engineer**
-- Gain real-world experience with production systems
-- Contribute to team-based and open-source projects
-- Build reliable, automated, and scalable infrastructure
+- Curious and fast learner
+- Adapt easily to new tools and environments
+- Prefer simplicity, clarity, and reliability
+- Strong belief in automation over repetition
+- Always improving troubleshooting skills
 
 ---
 
-📫 **Open to internship opportunities, learning collaborations, and mentorship**
+## 🎯 Goals
+
+- Become a strong **DevOps / Cloud / Platform Engineer**
+- Work with real production systems
+- Learn from experienced engineers
+- Build scalable, automated, and reliable infrastructure
+
+---
+
+📫 **Open to DevOps internships, learning opportunities, and collaborations**
