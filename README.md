@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sam
 
-### DevOps Intern | Cloud & Infrastructure Learner | Backend Mindset
+### Junior DevOps Engineer | Cloud & Infrastructure Learner | Backend Mindset
 
 I’m a curious DevOps intern who enjoys **understanding how systems really work** — from Linux processes to containers and cloud infrastructure.
 
